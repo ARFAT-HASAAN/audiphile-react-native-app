@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "AudioGadget",
-    "slug": "AudioGadget",
+    "name": "Audiophile App",
+    "slug": "audiophile-App1",
     "version": "1.0.0",
+     "description": "Audiophile is an audio gadget related app, which has almost every type of audio gadget, ",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon (2).png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splashScreen.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,7 +23,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon (2).png",
         "backgroundColor": "#FFFFFF"
       }
     },
